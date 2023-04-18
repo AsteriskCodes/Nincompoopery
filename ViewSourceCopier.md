@@ -14,6 +14,6 @@
   
   This is the second version of the view source copier:
   ```js
-  javascript: let url = window.location;navigator.clipboard.writeText("view-source:"+url);
+  javascript: window.alert("Copied view source url!");let url = window.location;navigator.clipboard.writeText("view-source:"+url);
   ```
 </details>

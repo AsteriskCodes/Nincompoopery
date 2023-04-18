@@ -14,7 +14,7 @@
 <details>
   <summary><h3>Second Version</h3></summary>
   
-  This bookmark automatically copies the view source url.
+  This bookmark automatically copies the view source url or your current tab.
   
   This is the second version of the view source copier:
   ```js

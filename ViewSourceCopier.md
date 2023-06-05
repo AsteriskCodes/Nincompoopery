@@ -1,4 +1,6 @@
 <h1>View Source Copier</h1>
+<b>NOTICE: </b>THIS SOURCE IS SCRAPPED AND IS NO LONGER BEING WORKED On!
+
 (Note: You must copy the code and paste it into a new bookmark)
 
 <details>
